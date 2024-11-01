@@ -1,0 +1,9 @@
+android_app_import {
+	name: "YASR",
+	apk: "YASR/YASR.apk",
+	owner: "idoybh",
+	preprocessed: true,
+	presigned: true,
+	system_ext_specific: true,
+	optional_uses_libs: ["androidx.window.extensions", "androidx.window.sidecar", "android.ext.adservices"],
+}
